@@ -153,10 +153,7 @@ Abolfazl Arjooni
 
 Computer Science Student | Aspiring Data Analyst
 
-GitHub: 
+LinkedIn: www.linkedin.com/in/abolfazl-arjooni-958b87416
 
-LinkedIn: 
-
----
-
+-
 This project was developed for learning, portfolio development, and practical business data analysis.
